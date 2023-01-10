@@ -1,0 +1,77 @@
+First thing you will learn in this class in Knowledge of Concepts
+the second thing you will learn in this class in this class is programming skills
+and the last thing you will learn in this class is problem solving skills
+
+Topics:
+1. Represent knowledge with data structures
+2. Iteration and recursion as computational metaphors
+3. Abstraction of procedures and date types
+4. Organize and modularize systems using object classes and methods
+5. Different classes of algorithms, searching and sorting
+6. Complexity of algorithms
+
+What Does A Computer Do?
+1. Fundamentally:
+    1) Performs calculations a billion calculations per seconds
+    2) Remembers results 100s of gigabytes of storage!
+2. What Kinds of calculations?
+    1) Built-in to the language
+    2) Ones that you define as the programmer
+3. Computers only know what you tell them
+
+Types Of Knowledge
+1. Declarative knowledge is statements of fact.
+    1) Someone will win a Google Cardboard before class ends
+2. Imperative knowledge is a recipe or "how-to"
+    1) Students sign up for raffle
+    2) Ana opens her IDE
+    3) Ana choose a random number between 1st and nth responder
+    4) Ana finds the number in the responders sheet. Winner!
+
+A Numerical Example
+1. square root of a number x is y such that y*y = x
+2. recipe for deducing square root of a number x
+    1) Start with a guess, g
+    2) If g*g is close enough to x, stop and say g is the answer
+    3) Otherwise make a new guess by averaging g and x/g
+    4) using the new guess, repeat process until close enough 
+Example:
+        g       g*g     x/g     (g+x/g)/2
+        3       9       16/3    4.17
+        4.17    17.36   3.837   4.0035
+        4.0035  16.0277 3.997   4.000002
+
+What Is A Recipe
+1. Sequence of simple steps
+2. flow of control process that specifies when each step is executed
+3. a means of determining when to stop
+Example:
+1+2+3 = an algorithm!
+
+Computers Are Machines
+1. how to capture a recipe in a mechanical process
+2. fixed program computer
+    1) calculator
+3. stored program computer
+    1) machine stores and executes instructions
+
+Basic Machines Architecture
+Memory contains data which is provided to a basic architecture containing the control unit(this contains the program counter) and ALU(Arithmetic Logic Unit)(this only does primitive operations)
+in this basic architecture we have an input which goes into the basic machine architecture and an output which goes out of the basic machine architecture.
+
+Stored Program Computer
+1. Sequence of instructions stored inside computer
+    1) Built from predefined set of primitive instructions
+        1. Arithmetic and logic
+        2. Simple tests
+        3. Moving data
+2. Special program (interpreter) executes each instruction in order
+    1) Use tests to change flow of control through the sequence
+
+Basic Primitives
+1. Turing showed that you can compute anything using six primitives (The six primitives are move left, move right, read, write, scan and do nothing)
+2. Modern programming languages have more convenient set of primitives
+3. Can abstract methods to create new primitives
+4. Anything computable in one language is computable in any other programming language
+
+Creating Recipes
