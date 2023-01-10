@@ -1,4 +1,4 @@
 # Using this workspace to start practing to become a software engineer.
-12/18/2022
-Mid-point: Has of today I have finished setup my visual studio code I also went through some tutorials still working with git hub I understand a little bit of what it is doing but having problems working it out going to take my time to ensure I am not missing anything
-End-point: didnn't get it to work well will work on it later
+1/9/2023 
+I have setup my visual studio code with extensions and making sure it connects to git. I can also pull and push 
+I recently found this website https://teachyourselfcs.com/ so that I can study computer science I have started today and hopefully from now on I will be able to upload files and work to this repository to show my body of work on my way to becoming a software engineer. 
